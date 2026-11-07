@@ -1,0 +1,435 @@
+{
+	"projects": {
+		"default": {
+			"id": "default",
+			"deleted": true,
+			"modified": 1749941936608
+		},
+		"a54670f612b": {
+			"id": "a54670f612b",
+			"deleted": true,
+			"modified": 1749941926280
+		},
+		"1e6c3eb0a1a": {
+			"id": "1e6c3eb0a1a",
+			"deleted": true,
+			"modified": 1749941925132
+		},
+		"fdd551f3860": {
+			"id": "fdd551f3860",
+			"deleted": true,
+			"modified": 1749941921326
+		},
+		"1033c056719": {
+			"id": "1033c056719",
+			"deleted": true,
+			"modified": 1749941821965
+		},
+		"54dadabcb52": {
+			"id": "54dadabcb52",
+			"deleted": true,
+			"modified": 1749941918268
+		},
+		"eaec5bd25d4": {
+			"id": "eaec5bd25d4",
+			"deleted": true,
+			"modified": 1749941915986
+		},
+		"b587aca884d": {
+			"id": "b587aca884d",
+			"deleted": true,
+			"modified": 1749941923836
+		},
+		"95a03f607fe": {
+			"id": "95a03f607fe",
+			"deleted": true,
+			"modified": 1749941808159
+		},
+		"96a6cf95d69": {
+			"id": "96a6cf95d69",
+			"deleted": true,
+			"modified": 1749941808851
+		},
+		"b72abe4b0df": {
+			"id": "b72abe4b0df",
+			"deleted": true,
+			"modified": 1749941809531
+		},
+		"79fff6a1f6c": {
+			"id": "79fff6a1f6c",
+			"deleted": true,
+			"modified": 1749941871072
+		},
+		"f0212b1671f": {
+			"id": "f0212b1671f",
+			"deleted": true,
+			"modified": 1749941810197
+		},
+		"2478d6332f3": {
+			"id": "2478d6332f3",
+			"deleted": true,
+			"modified": 1749941810883
+		},
+		"c31205ea821": {
+			"id": "c31205ea821",
+			"deleted": true,
+			"modified": 1749941811395
+		},
+		"c9daa9649ae": {
+			"id": "c9daa9649ae",
+			"deleted": true,
+			"modified": 1749941812924
+		},
+		"ee80ca3dbfd": {
+			"id": "ee80ca3dbfd",
+			"deleted": true,
+			"modified": 1749941892354
+		},
+		"13e212e6346": {
+			"id": "13e212e6346",
+			"deleted": true,
+			"modified": 1749941862312
+		},
+		"8789e48be6f": {
+			"id": "8789e48be6f",
+			"deleted": true,
+			"modified": 1749941858463
+		},
+		"f8570b76229": {
+			"id": "f8570b76229",
+			"deleted": true,
+			"modified": 1749941863988
+		},
+		"5cfbb8aaf0d": {
+			"id": "5cfbb8aaf0d",
+			"deleted": true,
+			"modified": 1749941860412
+		},
+		"85134328933": {
+			"id": "85134328933",
+			"deleted": true,
+			"modified": 1749941890836
+		},
+		"dc5ae4157ba": {
+			"id": "dc5ae4157ba",
+			"deleted": true,
+			"modified": 1749941865463
+		},
+		"a90b9b8155e": {
+			"id": "a90b9b8155e",
+			"deleted": true,
+			"modified": 1749941900768
+		},
+		"852ae4be2d3": {
+			"id": "852ae4be2d3",
+			"deleted": true,
+			"modified": 1749941872805
+		},
+		"2686f3e7f7c": {
+			"id": "2686f3e7f7c",
+			"deleted": true,
+			"modified": 1749941897599
+		},
+		"ba73e7fd18c": {
+			"id": "ba73e7fd18c",
+			"deleted": true,
+			"modified": 1749941883816
+		},
+		"dc896941a10": {
+			"id": "dc896941a10",
+			"deleted": true,
+			"modified": 1749941914212
+		},
+		"77cd6ffb829": {
+			"id": "77cd6ffb829",
+			"deleted": true,
+			"modified": 1749941913038
+		},
+		"465a77815e6": {
+			"id": "465a77815e6",
+			"deleted": true,
+			"modified": 1749941929484
+		},
+		"52ace6bf1a4": {
+			"id": "52ace6bf1a4",
+			"deleted": true,
+			"modified": 1749941910580
+		},
+		"02dbae7d562": {
+			"id": "02dbae7d562",
+			"deleted": true,
+			"modified": 1749941911910
+		},
+		"b21cfbc3c9e": {
+			"id": "b21cfbc3c9e",
+			"deleted": true,
+			"modified": 1749941906817
+		},
+		"71dc30f89f2": {
+			"id": "71dc30f89f2",
+			"deleted": true,
+			"modified": 1749941909306
+		},
+		"44235aafab3": {
+			"id": "44235aafab3",
+			"deleted": true,
+			"modified": 1749941903722
+		},
+		"d6cd8b0ac60": {
+			"id": "d6cd8b0ac60",
+			"deleted": true,
+			"modified": 1749941908024
+		},
+		"9b5f2018491": {
+			"id": "9b5f2018491",
+			"deleted": true,
+			"modified": 1749941933674
+		},
+		"7325fc00790": {
+			"id": "7325fc00790",
+			"deleted": true,
+			"modified": 1749941920256
+		},
+		"e5f09f487a4": {
+			"id": "e5f09f487a4",
+			"deleted": true,
+			"modified": 1749941932499
+		},
+		"6726394852b": {
+			"id": "6726394852b",
+			"deleted": true,
+			"modified": 1750574729867
+		},
+		"545a0b23f3a": {
+			"id": "545a0b23f3a",
+			"deleted": true,
+			"modified": 1751181973530
+		}
+	},
+	"folders": {
+		"default": {
+			"id": "default",
+			"deleted": true,
+			"modified": 1749941762201
+		},
+		"7545a0b23f3": {
+			"id": "7545a0b23f3",
+			"deleted": true,
+			"modified": 1750574876408
+		},
+		"bfb2ecc0a46": {
+			"id": "bfb2ecc0a46",
+			"deleted": true,
+			"modified": 1756021193132
+		},
+		"8272a5469fa": {
+			"name": "",
+			"created": 1788079495662,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"272a5469fa6": {
+			"name": "",
+			"created": 1788079497683,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"72a5469fa61": {
+			"name": "",
+			"created": 1788079505191,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"2a5469fa618": {
+			"name": "",
+			"created": 1788079506153,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"a5469fa6186": {
+			"name": "",
+			"created": 1788079506590,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"5469fa6186f": {
+			"name": "",
+			"created": 1788079508489,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"469fa6186f6": {
+			"name": "",
+			"created": 1788079509233,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"69fa6186f62": {
+			"name": "",
+			"created": 1788079509366,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"9fa6186f62f": {
+			"name": "",
+			"created": 1788079509522,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"86f62f84e8b": {
+			"name": "",
+			"created": 1788079518710,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"6f62f84e8bb": {
+			"name": "",
+			"created": 1788079519147,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"f62f84e8bb3": {
+			"name": "",
+			"created": 1788079519287,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"62f84e8bb39": {
+			"name": "",
+			"created": 1788079519444,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"2f84e8bb398": {
+			"name": "",
+			"created": 1788079519558,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"f84e8bb3988": {
+			"name": "",
+			"created": 1788079520057,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"84e8bb39889": {
+			"name": "",
+			"created": 1788079520205,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"4e8bb398892": {
+			"name": "",
+			"created": 1788079520363,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"80c0ee5dd14": {
+			"name": "",
+			"created": 1788079711801,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"0c0ee5dd14d": {
+			"name": "",
+			"created": 1788079715204,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"c0ee5dd14d5": {
+			"name": "",
+			"created": 1788079715436,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"0ee5dd14d51": {
+			"name": "",
+			"created": 1788079715532,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"ee5dd14d51b": {
+			"name": "",
+			"created": 1788079715654,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"e5dd14d51b1": {
+			"name": "",
+			"created": 1788079715873,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"5dd14d51b1e": {
+			"name": "",
+			"created": 1788079716258,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"dd14d51b1ed": {
+			"name": "",
+			"created": 1788079716416,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"d14d51b1ed8": {
+			"name": "",
+			"created": 1788079716783,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"14d51b1ed8e": {
+			"name": "",
+			"created": 1788079716923,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"4d51b1ed8ee": {
+			"name": "",
+			"created": 1788079717055,
+			"parent": "30eb14449e6",
+			"modified": 1793964790765,
+			"deleted": true
+		},
+		"service2026": {
+			"name": "Богослужіння",
+			"parent": "/",
+			"created": 1793964790765,
+			"modified": 1793964790765
+		},
+		"youth2026": {
+			"name": "Молодіжне",
+			"parent": "/",
+			"created": 1793964790766,
+			"modified": 1793964790766
+		}
+	},
+	"projectTemplates": {}
+}

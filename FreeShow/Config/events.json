@@ -1,0 +1,21 @@
+{
+	"152c3a17117": {
+		"type": "event",
+		"name": "Богослужіння",
+		"color": "#3D9970",
+		"time": true,
+		"from": "2024-09-01T09:00:00.000Z",
+		"to": "2024-09-01T11:00:00.000Z",
+		"location": "",
+		"repeat": false,
+		"repeatData": {
+			"type": "day",
+			"ending": "date",
+			"count": 1,
+			"endingDate": "2024-10-01",
+			"afterRepeats": 10
+		},
+		"notes": "",
+		"action": {}
+	}
+}
