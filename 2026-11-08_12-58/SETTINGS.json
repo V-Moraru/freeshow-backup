@@ -1,0 +1,359 @@
+{
+	"initialized": true,
+	"activeProject": "c1704887f7f",
+	"alertUpdates": false,
+	"audioFolders": {
+		"music": {
+			"name": "category.music",
+			"icon": "folder",
+			"path": "C:\\Users\\chies\\Music",
+			"default": true
+		}
+	},
+	"autoOutput": false,
+	"maxConnections": 10,
+	"ports": {
+		"remote": 5510,
+		"stage": 5511
+	},
+	"disabledServers": {
+		"remote": true,
+		"stage": true,
+		"controller": false
+	},
+	"serverData": {
+		"remote": {
+			"password": "1602"
+		}
+	},
+	"autosave": "5min",
+	"timeFormat": "24",
+	"lockedOverlays": {
+		"stage_idle_clock": [
+			"default",
+			"9498a6d9197",
+			"36f0e4a9e14"
+		]
+	},
+	"activeScenes": {},
+	"drawer": {
+		"height": 552,
+		"stored": null
+	},
+	"drawerTabsData": {
+		"shows": {
+			"activeSubTab": "all",
+			"enabled": true
+		},
+		"templates": {
+			"activeSubTab": "all",
+			"enabled": true
+		},
+		"overlays": {
+			"activeSubTab": "all",
+			"enabled": true
+		},
+		"scripture": {
+			"activeSubTab": "4235aafab3a",
+			"enabled": true
+		},
+		"calendar": {
+			"activeSubTab": "event",
+			"enabled": true
+		},
+		"functions": {
+			"activeSubTab": "timer",
+			"enabled": true
+		},
+		"media": {
+			"activeSubTab": "inputs",
+			"enabled": true,
+			"openedSubSubTab": {
+				"inputs": "screens"
+			}
+		},
+		"audio": {
+			"activeSubTab": "music",
+			"enabled": true
+		}
+	},
+	"groupNumbers": true,
+	"fullColors": false,
+	"formatNewShow": true,
+	"labelsDisabled": false,
+	"language": "ua",
+	"customFonts": [],
+	"mediaFolders": {
+		"pictures": {
+			"name": "category.pictures",
+			"icon": "folder",
+			"path": "C:\\Users\\chies\\Pictures",
+			"default": true
+		},
+		"videos": {
+			"name": "category.videos",
+			"icon": "folder",
+			"path": "C:\\Users\\chies\\Videos",
+			"default": true
+		},
+		"a7cf13e6251": {
+			"name": "Documents",
+			"icon": "folder",
+			"path": "C:\\Users\\chies\\Documents"
+		}
+	},
+	"mediaOptions": {
+		"columns": 5,
+		"mode": "grid",
+		"view": "all"
+	},
+	"openedFolders": [
+		"service2026",
+		"c1704887f7f"
+	],
+	"outLocked": false,
+	"outputs": {
+		"default": {
+			"enabled": true,
+			"active": true,
+			"name": "1 MAIN",
+			"color": "#F0008C",
+			"bounds": {
+				"x": -1280,
+				"y": 358,
+				"width": 1280,
+				"height": 720
+			},
+			"screen": "1872394615",
+			"kiosk": true,
+			"style": "default",
+			"show": {},
+			"ndi": true,
+			"ndiData": {
+				"name": "FreeShow NDI - MAIN"
+			},
+			"out": {
+				"overlays": [
+					"stage_idle_clock"
+				],
+				"slide": null,
+				"refresh": 14,
+				"background": null,
+				"transition": null,
+				"effects": []
+			}
+		},
+		"9498a6d9197": {
+			"enabled": true,
+			"active": true,
+			"name": "2 STAGE",
+			"color": "#F0008C",
+			"bounds": {
+				"x": -2560,
+				"y": 349,
+				"width": 1280,
+				"height": 720
+			},
+			"screen": "506609939",
+			"style": "13f95954579",
+			"ndi": false,
+			"out": {
+				"overlays": [
+					"stage_idle_clock"
+				],
+				"slide": null,
+				"refresh": 14,
+				"background": null,
+				"transition": null,
+				"effects": []
+			}
+		},
+		"36f0e4a9e14": {
+			"enabled": true,
+			"active": true,
+			"name": "LIVE",
+			"color": "#F0008C",
+			"bounds": {
+				"x": 1920,
+				"y": 195,
+				"width": 1280,
+				"height": 720
+			},
+			"screen": "2540897650",
+			"style": "d4fa58dc346",
+			"ndi": true,
+			"hideFromPreview": false,
+			"transparent": true,
+			"out": {
+				"overlays": [
+					"stage_idle_clock"
+				],
+				"slide": null,
+				"refresh": 14,
+				"background": null,
+				"transition": null,
+				"effects": []
+			}
+		}
+	},
+	"sorted": {
+		"projects": {
+			"type": "created"
+		},
+		"shows": {
+			"type": "name"
+		}
+	},
+	"resized": {
+		"leftPanel": 311,
+		"rightPanel": 348,
+		"leftPanelDrawer": 174,
+		"rightPanelDrawer": 200.1
+	},
+	"slidesOptions": {
+		"columns": 4,
+		"mode": "grid"
+	},
+	"splitLines": 0,
+	"theme": "3ed5a12f97b",
+	"transitionData": {
+		"text": {
+			"type": "fade",
+			"duration": 500,
+			"easing": "cubic",
+			"custom": {}
+		},
+		"media": {
+			"type": "fade",
+			"duration": 300,
+			"easing": "linear"
+		}
+	},
+	"audioRouting": {
+		"channels": [
+			{
+				"id": "main",
+				"name": "Main"
+			},
+			{
+				"id": "channel_metronome",
+				"name": "Metronome"
+			},
+			{
+				"id": "channel_default",
+				"name": "1 MAIN",
+				"color": "#F0008C",
+				"outputLink": "default"
+			},
+			{
+				"id": "channel_36f0e4a9e14",
+				"name": "LIVE",
+				"color": "#F0008C",
+				"outputLink": "36f0e4a9e14"
+			}
+		],
+		"connections": [
+			{
+				"from": "drawer_audio",
+				"to": "main"
+			},
+			{
+				"from": "playlists_default",
+				"to": "main"
+			},
+			{
+				"from": "mic_default",
+				"to": "main"
+			},
+			{
+				"from": "metronome",
+				"to": "channel_metronome"
+			},
+			{
+				"from": "main",
+				"to": "speaker_default"
+			},
+			{
+				"from": "channel_metronome",
+				"to": "speaker_default"
+			},
+			{
+				"from": "drawer_audio",
+				"to": "channel_36f0e4a9e14"
+			},
+			{
+				"from": "playlists_default",
+				"to": "channel_36f0e4a9e14"
+			},
+			{
+				"from": "output_win_sub_36f0e4a9e14",
+				"to": "channel_36f0e4a9e14"
+			},
+			{
+				"from": "channel_36f0e4a9e14",
+				"to": "network_sub_36f0e4a9e14"
+			},
+			{
+				"from": "drawer_audio",
+				"to": "channel_default"
+			},
+			{
+				"from": "playlists_default",
+				"to": "channel_default"
+			},
+			{
+				"from": "output_win_sub_default",
+				"to": "channel_default"
+			},
+			{
+				"from": "channel_default",
+				"to": "network_sub_default"
+			},
+			{
+				"from": "output_win_sub_9498a6d9197",
+				"to": "main"
+			}
+		]
+	},
+	"audioChannelsData": {},
+	"cloudSyncData": {},
+	"driveData": {
+		"mainFolderId": null,
+		"disabled": true,
+		"initializeMethod": null,
+		"disableUpload": false
+	},
+	"calendarAddShow": "",
+	"metronome": {},
+	"audioEffects": {},
+	"audioEffectPresets": {},
+	"effectsLibrary": [],
+	"special": {
+		"capitalize_words": "Jesus, Lord",
+		"autoUpdates": false,
+		"autoBackupPrevious": 1794135533559,
+		"translationLanguage": "it",
+		"autoLetterShortcut": false,
+		"customUserDataLocation": true,
+		"firstDayOfWeek": "1"
+	},
+	"timeline": {},
+	"timecode": {},
+	"contentProviderData": {
+		"planningcenter": {
+			"localAlways": false
+		},
+		"churchApps": {
+			"syncCategories": [
+				"song"
+			]
+		}
+	},
+	"obsData": {
+		"ip": "localhost",
+		"port": 4455
+	},
+	"ai": {
+		"enabled": false
+	}
+}

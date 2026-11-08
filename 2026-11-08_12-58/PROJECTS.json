@@ -204,6 +204,45 @@
 			"id": "545a0b23f3a",
 			"deleted": true,
 			"modified": 1751181973530
+		},
+		"c1704887f7f": {
+			"name": "08.11.26",
+			"created": 1794127652174,
+			"parent": "service2026",
+			"shows": [
+				{
+					"id": "74551e30082",
+					"index": 0,
+					"played": true
+				},
+				{
+					"id": "d51013e95f1",
+					"index": 1,
+					"played": true
+				},
+				{
+					"id": "a15605f5187",
+					"index": 2,
+					"played": true
+				},
+				{
+					"id": "b6a68eeb6b4",
+					"index": 3,
+					"played": true
+				},
+				{
+					"id": "294f14c41f2",
+					"index": 4,
+					"played": false
+				},
+				{
+					"id": "b9349c3e7fc",
+					"index": 5,
+					"played": true
+				}
+			],
+			"modified": 1794128959360,
+			"used": 1794127652174
 		}
 	},
 	"folders": {
